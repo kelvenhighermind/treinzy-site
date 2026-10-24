@@ -1,0 +1,5 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" role="img" aria-labelledby="title">
+  <title id="title">Treinzy</title>
+  <path id="background" fill="#0B0B0D" d="M0 0h24v24H0z"/>
+  <path id="mark" fill="#C8F25C" d="M4.8 5.5H20.3L19.1 9.2H14.1L11 18.5H7.2L10.3 9.2H3.6ZM15.2 11.5H19L17.8 15.2H14Z"/>
+</svg>
