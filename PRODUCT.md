@@ -20,7 +20,7 @@ Oferecer acesso público, direto e sem login aos documentos e caminhos de suport
 
 ## Capabilities and Constraints
 
-Documentos legais copiados exatamente dos campos documentoPrivacidade, documentoTermos e documentoPersonal do ARB do app, versão 3. Exclusão solicitada por e-mail com confirmação de identidade; prazos e retenção iguais ao aplicativo. Sem anúncios, analytics, formulários ou promessas de funcionalidades futuras.
+Documentos legais copiados exatamente dos campos documentoPrivacidade, documentoTermos e documentoPersonal do ARB do app, versão 4. Exclusão solicitada por e-mail com confirmação de identidade; prazos e retenção iguais ao aplicativo. Sem anúncios, analytics, formulários ou promessas de funcionalidades futuras.
 
 ## Brand Commitments
 
